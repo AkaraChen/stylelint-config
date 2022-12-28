@@ -3,7 +3,8 @@
     "extends": [
         "stylelint-config-standard",
         "stylelint-config-recommended-less",
-        "@wordpress/stylelint-config"
+        "@wordpress/stylelint-config",
+        "stylelint-config-html"
     ],
     "rules": {
         "indentation": 4,
