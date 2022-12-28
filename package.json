@@ -1,0 +1,22 @@
+{
+  "name": "stylelint-config-akrc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/stylelint-config": "^21.6.0",
+    "postcss-less": "^6.0.0",
+    "stylelint-config-recommended-less": "^1.0.4",
+    "stylelint-config-standard": "^29.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.6.0"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "./index.js"
+  ]
+}
