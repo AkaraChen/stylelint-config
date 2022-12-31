@@ -1,3 +1,12 @@
+## 0.0.2 (2022-12-31)
+
+
+### Features
+
+* vue support ([0cfbfa1](https://github.com/AkaraChen/stylelint-config/commit/0cfbfa135f02cb8887d97126e13a19f9fe746e86))
+
+
+
 ## 0.0.1 (2022-12-28)
 
 
