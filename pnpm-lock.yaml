@@ -7,7 +7,7 @@ specifiers:
   stylelint-config-html: ^1.1.0
   stylelint-config-recommended-less: ^1.0.4
   stylelint-config-standard: ^30.0.0
-  stylelint-declaration-block-no-ignored-properties: ^2.6.0
+  stylelint-declaration-block-no-ignored-properties: ^3.0.0
 
 dependencies:
   '@wordpress/stylelint-config': 21.6.0
@@ -16,7 +16,7 @@ dependencies:
   stylelint-config-html: 1.1.0_postcss-html@1.5.0
   stylelint-config-recommended-less: 1.0.4
   stylelint-config-standard: 30.0.1
-  stylelint-declaration-block-no-ignored-properties: 2.6.0
+  stylelint-declaration-block-no-ignored-properties: 3.0.0
 
 packages:
 
@@ -1084,11 +1084,11 @@ packages:
       stylelint-config-recommended: 10.0.1
     dev: false
 
-  /stylelint-declaration-block-no-ignored-properties/2.6.0:
-    resolution: {integrity: sha512-S9EC/tVJL19ppMRC4A4ecxtkENHZ7WNrEAukJVDtFt+iZgNP3SmokOLlYUhe6qZuB2XUvETqUx6r2p3Xfo7Rxw==}
-    engines: {node: '>=6'}
+  /stylelint-declaration-block-no-ignored-properties/3.0.0:
+    resolution: {integrity: sha512-3ml4NgSW6nkHQrk+/ounU7Qljfb7e7FayHzU7Mry6rF9X28RXyPLD2bNn4QVOO7t98d5EGCCVkNbHCZSx+bNUQ==}
+    engines: {node: '>=20.19.0'}
     peerDependencies:
-      stylelint: ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0 || ^14.0.0
+      stylelint: ^17.0.0
     dev: false
 
   /stylelint-less/1.0.6_stylelint@14.16.0:
