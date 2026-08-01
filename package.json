@@ -8,7 +8,7 @@
   "license": "ISC",
   "dependencies": {
     "@wordpress/stylelint-config": "^21.6.0",
-    "postcss-html": "^1.5.0",
+    "postcss-html": "^2.0.0",
     "postcss-less": "^6.0.0",
     "stylelint-config-html": "^1.1.0",
     "stylelint-config-recommended-less": "^1.0.4",
